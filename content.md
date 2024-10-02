@@ -24,45 +24,36 @@ The Project Management Triangle illustrates the balance between three critical c
 
 This matrix helps teams prioritize tasks based on their impact and the effort required. High-impact, low-effort tasks should be prioritized to maximize productivity. Use the Effort vs Impact matrix to visualize and prioritize tasks effectively.
 
-<!-- TODO: maybe just do this exercise in class?
+<!-- TODO: Estimating Effort
 
-## Estimating Work
+who owns the estimate?
+compare high/low vs Story points-based estimation
+estimating effort techniques
 
-To estimate the amount of work required for tasks, we can use the following point system based on complexity:
+-->
+### Estimating Effort
 
-- **1 Point**: A straightforward task that requires minimal implementation and integration effort. (Half workday)
-- **3 Points**: Involves some additional functionality but is still relatively simple to implement. (1-2 workdays)
-- **5 Points**: Involves moderate effort. (3 workdays)
-- **8 Points**: Requires significant effort. (~5 workdays)
-- **13 Points**: A more challenging and time-consuming task. (~10 workdays)
+> The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.
+>
+> Tom Cargill, Bell Labs
 
-## Pointing Poker
+> What one programmer can do in one month, two programmers can do in two months.
+>
+> Fred Brooks
 
-Pointing Poker is a collaborative estimation technique where team members estimate the effort required for tasks by assigning points based on the system described above. 
-
-### Example User Stories:
-- As a user, I want to be able to search for products by their name, so that I can quickly find the items I'm interested in.
-- As a user, I want to be able to register with my email and password, so that I can create an account and access the application.
-- As a user, I want to receive email notifications whenever my order status changes, so that I can stay updated on the progress of my purchases.
-- As a user, I want to be able to upload a profile picture, so that I can personalize my profile.
-- As a user, I want to be able to create and manage multiple shopping lists, so that I can categorize my desired items for different occasions or stores.
-
-### Quiz Question
-- What is the purpose of Pointing Poker?
-  - To allocate resources for the project.
-    - Not quite. The purpose is to estimate task effort collaboratively.
-  - To estimate the effort required for tasks collaboratively.
-    - Correct! Pointing Poker is used for collaborative task estimation.
-  - To determine project timelines.
-    - Not quite. It's focused on estimating task effort, not timelines.
-{: .choose_best #pointing_poker title="Purpose of Pointing Poker" points="1" answer="2" }
+<!-- 
+It's easy to estimate what is known.
+It's hard to estimate what is known to be unknown. (known unknowns)
+It's very hard to estimate what is not known to be unknown. (unknown unknowns) 
+-->
 
 
+<!-- TODO: estimating impact 
 
-## Takeaways
-- Regularly review and refine your estimates as project scope changes.
- -->
+who owns the impact estimate?
+estimating imapct techniques
 
+-->
 
 ## Start Building a Backlog for Your Project
 
@@ -76,6 +67,7 @@ I recommend creating GitHub [Issues](https://docs.github.com/issues) and a [Proj
 - [A counterpoint: Why software estimation is a losing game](https://rclayton.silvrback.com/software-estimation-is-a-losing-game)
 - [Building software with David Heinemeier Hansson](https://medium.com/computers-are-hard/computers-are-hard-building-software-with-david-heinemeier-hansson-c9025cdf225e)
 - [Flaws in Scrum and Agile](https://pandastrike.com/posts/20150304-agile/)
+- [The Mythical Man-Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 
 ---
 

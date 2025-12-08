@@ -1,5 +1,17 @@
 # Estimating and Prioritizing
 
+<div class="alert alert-primary mt-2">
+   <ul>
+      <li>
+         <a href="https://youtu.be/Ztizc9JPrSU?si=kW0jxQGudIFMzJgM&t=2669" target="_blank">Video</a>
+      </li>
+      <li>
+         <a href="https://github.com/dpi-tta-slides/estimating-and-prioritizing" target="_blank">Slides</a>
+      </li>
+   </ul>
+</div>
+
+
 This lesson explores techniques to estimate and prioritize work in software development, helping you effectively manage project scopes and timelines. Understanding how to estimate effort and impact is crucial for delivering projects on time and within budget while meeting stakeholder expectations.
 
 ## Chronic Underestimation
